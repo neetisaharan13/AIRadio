@@ -109,7 +109,7 @@ class _HomePageState extends State<HomePage> {
   }
 
   fetchRadios() async {
-    final radioJson = await rootBundle.loadString("assets/radio.json");
+    final radioJson = await rootBundle.loadString("assests/radio.json");
     radios = MyRadioList.fromJson(radioJson).radios;
     _selectedRadio = radios![0];
     _selectedColor = Color(int.parse(_selectedRadio!.color));
