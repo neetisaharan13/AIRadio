@@ -2,13 +2,10 @@
 
 This is a radio app where you can ask Alan AI to play some music.
 
-<p align="center">
-  <a href="https://youtu.be/p4xh7zTt6i0" target="_blank">
-    <img src="ss/ai_cover.png"  width="800" alt="Alan AI Radio App">
-  </a>
-</p>
-
 > Alan AI: https://alan.app/
+
+![image](https://user-images.githubusercontent.com/85106716/181691220-2ee854eb-62ee-4e8b-b214-e63cf3014e68.png)
+
 
 ## Getting Started
 
